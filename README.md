@@ -3,7 +3,7 @@ Implementado: Tipagem estática; Modificadores de acesso, herança, tipos genér
 
 Rodar aplicações passos:
 
-1º Baixar a pasta NegociacoesTS.
+1º Baixar a pasta NegociacoesTS. \n
 2º Abri o cmd na pasta API e rodar com "npm run start"
 3º Abrir a pasta TypeScript e o terminal de comando do próprio vsCode, "npm start" 
 
